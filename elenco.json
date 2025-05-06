@@ -1,0 +1,26 @@
+{
+  "tavoli": [
+    {
+      "nome": "Tavolo 1",
+      "commensali": [
+        { "nome": "Anna", "cognome": "Russo" },
+        { "nome": "Lorenzo", "cognome": "Ferrari" }
+      ]
+    },
+    {
+      "nome": "Tavolo 2",
+      "commensali": [
+        { "nome": "Chiara", "cognome": "Esposito" },
+        { "nome": "Davide", "cognome": "Romano" },
+        { "nome": "Serena", "cognome": "Greco" }
+      ]
+    },
+    {
+      "nome": "Tavolo 3",
+      "commensali": [
+        { "nome": "Alessandro", "cognome": "Marino" },
+        { "nome": "Federica", "cognome": "Conti" }
+      ]
+    }
+  ]
+}
