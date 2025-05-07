@@ -2,6 +2,7 @@
   "tavoli": [
     {
       "nome": "Tavolo 1",
+      "pathImg": "images/1.png",
       "commensali": [
         { "nome": "Anna", "cognome": "Russo" },
         { "nome": "Lorenzo", "cognome": "Ferrari" }
@@ -9,6 +10,7 @@
     },
     {
       "nome": "Tavolo 2",
+      "pathImg": "images/2.png",
       "commensali": [
         { "nome": "Chiara", "cognome": "Esposito" },
         { "nome": "Davide", "cognome": "Romano" },
@@ -17,6 +19,7 @@
     },
     {
       "nome": "Tavolo 3",
+      "pathImg": "images/3.png",
       "commensali": [
         { "nome": "Alessandro", "cognome": "Marino" },
         { "nome": "Federica", "cognome": "Conti" }
