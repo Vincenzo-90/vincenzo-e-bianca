@@ -204,8 +204,8 @@
         { "nome": "Marco", "cognome": "Uccello" },
         { "nome": "Antonio", "cognome": "Surace" },
         { "nome": "Pina", "cognome": "Uccello" },
-        { "nome": "Valentina", "cognome": "Uccello"},
-        { "nome": "Luca", "cognome": "Uccello"}
+        { "nome": "Valentina", "cognome": "Surace"},
+        { "nome": "Luca", "cognome": "Surace"}
       ]
     }
   ]
