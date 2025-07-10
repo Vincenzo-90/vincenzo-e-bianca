@@ -51,7 +51,7 @@
       "nome": "Tavolo 4",
       "pathImg": "images/4.png",
       "commensali": [
-        { "nome": "Vincenzo", "cognome": "Polito" },
+        { "nome": "Vincenzo", "cognome": "(Sposo) Polito" },
         { "nome": "Bianca", "cognome": "De Gregorio" }
       ]
     },
@@ -145,7 +145,7 @@
         { "nome": "Mauro", "cognome": "Lioniello" },
         { "nome": "Maria", "cognome": "Pischetola" },
         { "nome": "Michele", "cognome": "Lioniello" },
-        { "nome": "Giusy", "cognome": "Polito" },
+        { "nome": "Giuseppina", "cognome": "Polito" },
         { "nome": "Pasquale", "cognome": "Giordano" },
         { "nome": "Giusy", "cognome": "Lioniello" }
       ]
@@ -157,7 +157,7 @@
         { "nome": "Alfonso", "cognome": "De Marco" },
         { "nome": "Maria", "cognome": "Avallone" },
         { "nome": "Fabio", "cognome": "De Marco" },
-        { "nome": "Antonio", "cognome": "DA SOSTITUIRE" },
+        { "nome": "Antonio", "cognome": "Giordano" },
         { "nome": "Davide", "cognome": "De Marco" },
         { "nome": "Sarah", "cognome": "Cannizzaro"},
         { "nome": "Serena", "cognome": "De Marco"},
