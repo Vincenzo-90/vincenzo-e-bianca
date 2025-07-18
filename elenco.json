@@ -118,12 +118,7 @@
         { "nome": "Loredana", "cognome": "Graniero" },
         { "nome": "Melania", "cognome": "Polito" },
         { "nome": "Vincenzo", "cognome": "Cinque" },
-        { "nome": "Lucia", "cognome": "Polito" },
-        { "nome": "Luigi", "cognome": "Balzano" },
-        { "nome": "Giusy", "cognome": "Polito" },
-        { "nome": "Sasy", "cognome": "Balzano" },
-        { "nome": "Ivan", "cognome": "Balzano" },
-        { "nome": "Christian", "cognome": "Balzano" }
+        { "nome": "Lucia", "cognome": "Polito" }
       ]
     },
     {
