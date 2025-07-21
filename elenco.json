@@ -1,8 +1,8 @@
 {
   "tavoli": [
     {
-      "nome": "Tavolo 1",
-      "pathImg": "images/1.png",
+      "nome": "Tavolo 10",
+      "pathImg": "images/10.png",
       "commensali": [
         { "nome": "Stefano", "cognome": "De Rosa" },
         { "nome": "Anna", "cognome": "Falciatore" },
@@ -121,8 +121,8 @@
       ]
     },
     {
-      "nome": "Tavolo 10",
-      "pathImg": "images/10.png",
+      "nome": "Tavolo 1",
+      "pathImg": "images/1.png",
       "commensali": [
         { "nome": "Pasquale", "cognome": "Riccio" },
         { "nome": "Grazia", "cognome": "Celentano" },
@@ -190,7 +190,7 @@
     },
     {
       "nome": "Tavolo 16",
-      "pathImg": "images/15.png",
+      "pathImg": "images/16.png",
       "commensali": [
         { "nome": "Mariano", "cognome": "Uccello" },
         { "nome": "Anna", "cognome": "Spisto" },
