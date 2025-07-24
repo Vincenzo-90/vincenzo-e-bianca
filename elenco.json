@@ -27,6 +27,7 @@
         { "nome": "Francesca", "cognome": "Ricci" },
         { "nome": "Giovanni", "cognome": "Di Mauro" },
         { "nome": "Silvana", "cognome": "La Spina" },
+        { "nome": "Annamaria", "cognome": "Ricci" },
         { "nome": "Celeste", "cognome": "Ferraro" },
         { "nome": "Gennaro", "cognome": "Varriale" }
       ]
@@ -43,8 +44,7 @@
         { "nome": "Claudine", "cognome": "Paris" },
         { "nome": "Oreste", "cognome": "De Bernardo" },
         { "nome": "Delia", "cognome": "De Gregorio" },
-        { "nome": "Rosaria", "cognome": "De Gregorio" },
-        { "nome": "Annamaria", "cognome": "Ricci" }
+        { "nome": "Rosaria", "cognome": "De Gregorio" }
       ]
     },
     {
